@@ -159,6 +159,7 @@ nav ul li a.active{
     #click:checked ~ .btn i:before{
         content: "\f00d";
         color: #fe6f61;
+	  
         
     }
 
@@ -166,6 +167,7 @@ nav ul li a.active{
     .fa-bars:before, .fa-navicon:before {
     content: "\f0c9";
     color: #fe6f61;
+    background-color: #000;
 }
 
     
